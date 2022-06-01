@@ -1,0 +1,28 @@
+How i navigated through this challenge
+    1. First i made a new folder for my challenges ,downloaded the starter code and ran it while comparing 
+    it to what the finishing product is suppose to look like.
+
+    2.Then i made a list of all the things  i needed to do to make sure the website looked and functioned
+    like the example intended
+
+    3. Then i made a list of criteria that i will be graded on on my html DOC.
+
+    4. First i inserted the image for the hero by inserting the URL for the image i recieved in the starter code assets
+    (at first i had allignment issues that would not allow me to adjust the image correctly; but after an hour
+     or so of lookiing for errors in my code i found and made a quick fix)
+    
+    5.next, I used what we have done in previous modules to download the URL for the other photos and correctly replace
+    the links to the photos that were not working.
+
+
+    6. Then, I searched for the error in the code for the funtionality of the "search engine optimization" link at
+    the top of the website and found that the reason the link was not working was because it was missing an "id" unlike the other
+    links.
+
+    7. I committed over 10 times throughout this challenge in order to save my work 
+
+    8. Lastly i looked through my code to make sure i had semantic HTML elements and added sections , made sure my headers were in chronological order and my code looked organized,
+    made sure all my images had alt attributes and made sure my title was more interesting and descriptive.
+
+        URL: file:///Users/keelahmiller/Desktop/projects/Challenge%201/index.project.html#search-engine-optimization
+
